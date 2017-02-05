@@ -21,7 +21,8 @@
 #include "FRC_NetworkCommunication/FRCComm.h"
 
 #include "opState.h"
-
-
+#include "DriveTrain.h"
+#include "statics.h"
+#include "utils.h"
 
 #endif /*CHINOOKTEST1_CHINOOKTEST_H*/
