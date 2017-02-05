@@ -1,3 +1,6 @@
+#ifndef STATICS_H
+#define STATICS_H
+
 #include "opState.h"
 
 enum {
@@ -37,3 +40,5 @@ enum {
     JoystickYButton = 4,
     JoystickLeftStickDown = 1
 };
+
+#endif
